@@ -1,0 +1,26 @@
+html {
+    font-size: 14px;
+    border: 0.3rem solid teal;
+    min-height: 98%;
+    max-height: 100%;
+    border-radius: .3rem;
+}
+form {
+    width: 75%;
+    margin: 0 auto;
+    padding: 10%;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+form table {
+    width: 100%;
+    margin: 0 auto;
+    padding: 5%;
+    box-shadow: 0.2rem 0.2rem 0.2rem black;
+    border-radius: 5%;
+    color: white;
+    background: teal;    
+    text-align: center;    
+}
+
+
